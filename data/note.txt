@@ -1,0 +1,2 @@
+
+baf_processed.csv.gz file downloaded from Release section should be saved in this folder.
